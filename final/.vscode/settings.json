@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "libtimer.h": "c",
+        "switch_state_1_handler.h": "c",
+        "switches.h": "c"
+    }
+}
